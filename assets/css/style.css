@@ -137,7 +137,7 @@ ul.menu li.selected a {
     .table tbody>tr>td.vert-align {
       vertical-align: middle;
     }
-.button {
+.submit {
     background-color: #7268ad;
     padding: 2%;
     color: white;
