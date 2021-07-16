@@ -57,17 +57,7 @@
     .header {
     text-align: center;
     }
-.button {
-    background-color: #7268ad;
-    padding: 2%;
-    color: white;
-    border-radius: 5px;
-    float: right;
-    margin-top: 5%;
-    clear: both;
-	font-size: 0.8em;
-	}
-
+	
 .clear {
   clear: both;
     height: 63px;
